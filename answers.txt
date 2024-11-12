@@ -1,0 +1,5 @@
+File 1 = Techree (Highest delta, dudes sleeping in the boring lecture)
+File 2 = M1 (Early in the morning, so slightly drowzy - Theta)
+File 3 = Chem lab (Normal activity - Theta with Alpha)
+File 4 = GenBio (Because hes into it - Alpha)
+File 5 = Workshop (Heavy Physical activity - Beta)
